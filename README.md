@@ -13,3 +13,7 @@ included with either the single addresses (/32) or the ip address ranges (/24,
 
 This is my first useful python script. And my first published repository in
 github.
+
+I built this in Python3.
+
+No warranty is offered, nor implied.
